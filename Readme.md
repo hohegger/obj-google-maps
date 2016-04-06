@@ -1,3 +1,5 @@
-Hey!
+# obj-google-maps #
 
-Check this out...
+Kleines Helferlein um eine Google Maps Karte mit Markern zu erstellen.
+
+Viel Spaß damit!
